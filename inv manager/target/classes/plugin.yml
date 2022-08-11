@@ -1,0 +1,9 @@
+name: server-crasher
+version: 2
+main: com.henry.servercrash.Servercrash
+api-version: 1.19
+commands:
+  enderchest:
+    description: crash
+    usage: /<command>
+    aliases: crash
